@@ -7,7 +7,7 @@ This project was created to analyze the power of ADC players belonging to t1 bas
 
 ## 활용한 데이터 
 인벤 LoL e-sports 기록실 
-https://lol.inven.co.kr/dataninfo/match/teamList.php
+https://lol.inven.co.kr/dataninfo/match/teamList.php?pg=3&iskin=lol&category=LCK2021&teamName=T1
 
 ## 활용한 DB
 firebase

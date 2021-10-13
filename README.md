@@ -1,5 +1,6 @@
 # 2021lck
 This project was created to analyze the power of AD players belonging to t1 based on 2021LCK history data.
+이 프로젝는 T1에 소속되어 있는 두 AD 선수들의 2021 LCK 전적 데이터를 바탕으로 만들어졌습니다.
 
 ## 취지 
 현재 T1 감독대행 및 코치진과 T1팀의 팬 여론, 그리고 롤 갤러리 등 커뮤니티에서 회자되고 있는 T1 소속 두 AD 선수의 기량 차이가 객관적인 전적 데이터를 근거로한 사실인지 확인하기 위해 

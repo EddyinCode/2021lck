@@ -10,10 +10,10 @@ This project was created to analyze the power of ADC players belonging to t1 bas
 https://lol.inven.co.kr/dataninfo/match/teamList.php?pg=3&iskin=lol&category=LCK2021&teamName=T1
 
 ## 활용한 DB
-firebase
+MySQL
 
 ## 활용한 언어
-javascript 
+PHP, javascript 
 
 ## 데이터 시각화 
 1) 2021 LCK 전시즌 AD 두 선수의 경기 출전 횟수 비교 및 승리 횟수 비교
